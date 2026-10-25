@@ -1,0 +1,4 @@
+recordings_raw/
+recordings_clean/
+*.wav
+.ipynb_checkpoints/
